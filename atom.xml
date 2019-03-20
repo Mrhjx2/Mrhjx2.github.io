@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>mrhjx2</title>
+  
+  <subtitle>Raindops ~ 纸上得来终觉浅，绝知此事要躬行</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://mrhjx2.github.io/"/>
+  <updated>2019-03-20T03:30:13.974Z</updated>
+  <id>https://mrhjx2.github.io/</id>
+  
+  <author>
+    <name>Mrhjx2.Raindops</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>first posttitle</title>
+    <link href="https://mrhjx2.github.io/2019/03/20/first-posttitle/"/>
+    <id>https://mrhjx2.github.io/2019/03/20/first-posttitle/</id>
+    <published>2019-03-20T01:56:02.000Z</published>
+    <updated>2019-03-20T03:30:13.974Z</updated>
+    
+    <content type="html"><![CDATA[<p>this my blog post for record life work all</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;this my blog post for record life work all&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+      <category term="云服务器" scheme="https://mrhjx2.github.io/categories/%E4%BA%91%E6%9C%8D%E5%8A%A1%E5%99%A8/"/>
+    
+      <category term="编程语言工具" scheme="https://mrhjx2.github.io/categories/%E4%BA%91%E6%9C%8D%E5%8A%A1%E5%99%A8/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80%E5%B7%A5%E5%85%B7/"/>
+    
+      <category term="理论基础" scheme="https://mrhjx2.github.io/categories/%E4%BA%91%E6%9C%8D%E5%8A%A1%E5%99%A8/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80%E5%B7%A5%E5%85%B7/%E7%90%86%E8%AE%BA%E5%9F%BA%E7%A1%80/"/>
+    
+      <category term="中间件" scheme="https://mrhjx2.github.io/categories/%E4%BA%91%E6%9C%8D%E5%8A%A1%E5%99%A8/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80%E5%B7%A5%E5%85%B7/%E7%90%86%E8%AE%BA%E5%9F%BA%E7%A1%80/%E4%B8%AD%E9%97%B4%E4%BB%B6/"/>
+    
+    
+      <category term="centOS" scheme="https://mrhjx2.github.io/tags/centOS/"/>
+    
+      <category term="tomcat" scheme="https://mrhjx2.github.io/tags/tomcat/"/>
+    
+      <category term="redis" scheme="https://mrhjx2.github.io/tags/redis/"/>
+    
+      <category term="python" scheme="https://mrhjx2.github.io/tags/python/"/>
+    
+      <category term="golang" scheme="https://mrhjx2.github.io/tags/golang/"/>
+    
+      <category term="linux" scheme="https://mrhjx2.github.io/tags/linux/"/>
+    
+      <category term="mongodb" scheme="https://mrhjx2.github.io/tags/mongodb/"/>
+    
+      <category term="mysql" scheme="https://mrhjx2.github.io/tags/mysql/"/>
+    
+      <category term="k8s" scheme="https://mrhjx2.github.io/tags/k8s/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://mrhjx2.github.io/2019/03/20/hello-world/"/>
+    <id>https://mrhjx2.github.io/2019/03/20/hello-world/</id>
+    <published>2019-03-20T01:50:46.031Z</published>
+    <updated>2019-03-20T03:29:29.041Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      
+    
+    </summary>
+    
+      <category term="test01" scheme="https://mrhjx2.github.io/categories/test01/"/>
+    
+    
+      <category term="test-tag01" scheme="https://mrhjx2.github.io/tags/test-tag01/"/>
+    
+  </entry>
+  
+</feed>
